@@ -1,0 +1,101 @@
+
+body{
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  background-image: url("https://wallpaperaccess.com/full/785868.png");
+	background-repeat: repeat-x;
+  background-size: cover;  
+  opacity: 0.9;
+  
+}
+
+.container{
+  height: auto;
+  max-width: 480px;
+  margin: auto;
+ /* background-color:#ffb3b3 ;*/
+  text-align: center;
+  padding-bottom: 50px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   margin-top: 100px;
+  background-image: url('https://i.pinimg.com/736x/b8/94/2f/b8942f236f51960e99f9781ec827d92e.jpg');
+ 
+
+
+
+}
+
+.container>.icon{
+  width: 33.33%;
+  height: auto;
+  margin: 50px auto;
+}
+
+form .btn{
+  width: 49.5%;
+  border: none;
+  font-size: 16px;
+  padding: 15px 0;
+  color: #fff;
+  background-color:#808080 ;
+  margin: 20px auto;
+  text-align: center;
+  margin-right: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  outline: none;
+}
+
+
+
+
+.btn:hover{
+  cursor: pointer;
+  background-color: #ff3333; 
+  transition: all 0.5s ease;
+}
+
+.btn-rnd{
+
+  width: 100px !important;
+  border-radius:50px;
+ 
+}
+
+
+
+form input{
+  width: 100%;
+  padding: 12px 0;
+  overflow: hidden;
+  border: none;
+  margin: 12px auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+
+form input::placeholder{
+  
+  padding-left: 20px;
+}
+
+
+
+
+
+
+form input:focus{
+  outline: none;
+}
+
+
+
+@media screen and (max-width: 600px) {
+  
+    
+    .container {
+      height: auto;
+        width: 96%;
+        
+    }
+}
