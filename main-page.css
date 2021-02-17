@@ -108,9 +108,9 @@ a:hover div{
   transform:translatez(0px);
 }
 
-bottomright {
+.bottomright {
   position: absolute;
-  bottom: 3px;
-  right: 3px;
+  bottom:7px;
+  right: 7px;
   font-size: 18px;
 }
