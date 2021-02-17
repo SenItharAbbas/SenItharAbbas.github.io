@@ -15,7 +15,7 @@ a{
   width:47.5%; height:47.5%;
   overflow:hidden;
   transform:scale(.5) translateZ(0px);
-  background:#585247;
+  background:#997171;
 }
 a div{
   height:100%;
@@ -63,7 +63,7 @@ a:nth-child(5){
   width:55%;height:55%;
   left:22.5%; top:22.5%;
   border-radius:50vmin;
-  box-shadow:0 0 0 5vmin #E3DFD2;
+  box-shadow:0 0 0 5vmin #858585;
   transform:scale(1);
 }
 a:nth-child(5) div{
@@ -76,7 +76,7 @@ span{
   top:45vmin;
   width:10vmin; height:10vmin;
   border-radius:100%;
-  background:#858585;
+  background:#9b3b3b;
   transform:translateZ(0px);
 }
 span span{
@@ -107,6 +107,7 @@ a:hover div{
   opacity:1;
   transform:translatez(0px);
 }
+
 bottomright {
   position: absolute;
   bottom: 8px;
