@@ -19,7 +19,7 @@ body{
   padding-bottom: 50px;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    margin-top: 100px;
-  background-image: url('https://sm.mashable.com/mashable_in/photo/default/nasa-galaxy_9pu4.jpg');
+  background-color: #2e2e2e;
  
 
 
@@ -38,7 +38,7 @@ form .btn{
   font-size: 16px;
   padding: 15px 0;
   color: #fff;
-  background-color:#b51919 ;
+  background-color:#ae3248 ;
   margin: 20px auto;
   text-align: center;
   margin-right: auto;
