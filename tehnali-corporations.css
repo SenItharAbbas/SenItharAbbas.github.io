@@ -34,3 +34,7 @@ main div {
   cursor: pointer;
   text-decoration: none;
 }
+
+.p {
+  color: white;
+}
